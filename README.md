@@ -12,7 +12,7 @@
 - Regressão linear
 - Correlação entre variáveis
   # Nome da tarefa
-  python TarefaM23.py
+  TarefaM23.py
   # Link local
   http://127.0.0.1:8050/
   
